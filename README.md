@@ -17,6 +17,25 @@
   <img src="https://img.shields.io/github/languages/top/The-last-signal-project/The-last-signal-?style=for-the-badge&logo=github&color=purple" alt="Main Language" />
   <img src="https://img.shields.io/github/repo-size/The-last-signal-project/The-last-signal-?style=for-the-badge&logo=github&color=orange" alt="Repository Size" />
 </p>
+<p align="center">
+  <a href="https://github.com/The-last-signal-project/The-last-signal-">
+    <img
+      src="https://raw.githubusercontent.com/The-last-signal-project/The-last-signal-/main/stats/repository-stats.svg"
+      alt="The Last Signal Repository Statistics"
+      width="920"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/The-last-signal-project/The-last-signal-/graphs">
+    📈 View Repository Insights
+  </a>
+  ·
+  <a href="https://github.com/The-last-signal-project/The-last-signal-/graphs/contributors">
+    👥 Contributors
+  </a>
+</p>
 <h1 align="center">🚀 Featured Project — The Last Signal</h1>
 
 
