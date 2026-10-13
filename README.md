@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=The-last-signal-project&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Project Owner GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DDCoder23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Project Owner GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-last-signal-project&repo=The-last-signal-&layout=compact&theme=tokyonight&hide_border=true" alt="Project Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DDCoder23&repo=The-last-signal-&layout=compact&theme=tokyonight&hide_border=true" alt="Project Languages" />
 </p>
 <h1 align="center">🚀 Featured Project — The Last Signal</h1>
 
