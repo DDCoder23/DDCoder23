@@ -1,6 +1,4 @@
-<h1 align="center"> PASSE TS </h1>
-<h1 align="center">  Il est nul en déco, il fait de la déco quand même! C'est la déco de FUZE</h1>
-<img width="554" height="554" alt="image" src="https://github.com/user-attachments/assets/c5924f05-72bd-4797-9500-e15f229b6c64" />
+
 
 
 <h1 align="center">🚀 The Last Signal — Project Stats</h1>
