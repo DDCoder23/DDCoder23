@@ -1,6 +1,3 @@
-
-
-
 <h1 align="center">🚀 The Last Signal — Project Stats</h1>
 
 <p align="center">
